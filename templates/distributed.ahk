@@ -1,0 +1,1 @@
+https://rosettacode.org/wiki/Distributed_programming/AutoHotkey
