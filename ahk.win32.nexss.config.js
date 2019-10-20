@@ -14,21 +14,6 @@ languageConfig.compilers = {
   }
 };
 languageConfig.errors = require("./nexss.ahk.errors");
-languageConfig.languagePackageManagers = {
-  npm: {
-    installation: "PowerShell.exe -File installComposer.ps1",
-    messageAfterInstallation: "",
-    installed: "composer installed <args>",
-    search: "composer search <args>",
-    install: "composer require <args>",
-    uninstall: "composer remove <args>",
-    help: "composer <args>",
-    version: "composer version",
-    init: () => {},
-    // if command not found in specification
-    // run directly on package manager
-    else: "composer <default> <args>"
-  }
-};
+languageConfig.languagePackageManagers = {};
 
 module.exports = languageConfig;
