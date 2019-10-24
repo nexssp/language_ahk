@@ -1,6 +1,6 @@
 # Auto Hotkey - Nexss PROGRAMMER 2.0
 
-## Scripts
+## Interesting Scripts found on the
 
 https://github.com/Drugoy/Autohotkey-scripts-.ahk
 
