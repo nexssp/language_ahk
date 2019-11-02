@@ -7,7 +7,7 @@ languageConfig.extensions = [".ahk"];
 languageConfig.builders = {};
 languageConfig.compilers = {
   ahk: {
-    install: "scoop install autohotkey",
+    install: "scoop bucket add extras && scoop install autohotkey",
     command: "autohotkey.exe",
     args: "<file>",
     help: ``
