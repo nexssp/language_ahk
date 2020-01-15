@@ -1,1 +1,0 @@
-& "C:\Program Files\AutoHotkey\AutoHotkey.exe" "C:\Temp\Start.ahk"
