@@ -11,7 +11,9 @@ Make sure your true type font in your terminal has the unicode characters includ
 nexss myfile.ahk --test 
 ```
 
+## JSON/UTF-8 in Auto Hot Key
 
+Here is how to convert utf8/Json data: [AutoHotKey JSON/UTF-8](JSON,-UTF-8-in-the-AutoHotKey-(.ahk))
 
 ## Interesting Scripts found on the Internet
 
