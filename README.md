@@ -13,7 +13,7 @@ nexss myfile.ahk --test
 
 ## JSON/UTF-8 in Auto Hot Key
 
-Here is how to convert utf8/Json data: [AutoHotKey JSON/UTF-8](JSON,-UTF-8-in-the-AutoHotKey-(.ahk))
+Here is how to convert utf8/Json data: [AutoHotKey JSON/UTF-8](https://github.com/nexssp/language_ahk/wiki/JSON---UTF-8-in-the-AutoHotKey)
 
 ## Interesting Scripts found on the Internet
 
