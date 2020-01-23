@@ -5,7 +5,7 @@ To Install Nexss Programmer please go to [Nexss Programmer CLI](https://github.c
 ## Important
 
 ```ahk
-nexss myfile.ahk --test # make sure your true type font has the unicode characters included, otherwise you may see ???? on some characters.
+nexss myfile.ahk --test ; make sure your true type font has the unicode characters included, otherwise you may see ???? on some characters.
 ```
 
 
