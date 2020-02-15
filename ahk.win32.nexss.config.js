@@ -3,6 +3,9 @@ languageConfig.title = "Auto Hot Key";
 languageConfig.description =
   "Powerful. Easy to learn. The ultimate automation scripting language for Windows.";
 languageConfig.url = "https://www.autohotkey.com/";
+languageConfig.founders = ["Chris Mallett", "Steve Gray"];
+languageConfig.developers = ["Chris Mallett", "Steve Gray"];
+languageConfig.years = ["2003", "2008"];
 languageConfig.extensions = [".ahk"];
 languageConfig.builders = {};
 languageConfig.compilers = {
