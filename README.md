@@ -18,6 +18,7 @@ Here is how to convert utf8/Json data: [AutoHotKey JSON/UTF-8](https://github.co
 ## Tutorials
 
 - Objects in AHK - <https://www.autohotkey.com/boards/viewtopic.php?t=29232>
+- Magic of Auto Hot Key - <https://sharats.me/posts/the-magic-of-autohotkey/>
 
 ## Interesting Scripts found on the Internet
 
