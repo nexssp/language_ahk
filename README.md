@@ -23,6 +23,7 @@ Here is how to convert utf8/Json data: [AutoHotKey JSON/UTF-8](https://github.co
 ## Interesting Scripts found on the Internet
 
 - <https://github.com/Drugoy/Autohotkey-scripts-.ahk>
+- **pAHKlight** - Your Lightweight Guide to AutoHotkey libraries, classes, functions and tools - <https://github.com/hi5/pAHKlight>
 
 ## Videos
 
