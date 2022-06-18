@@ -5,7 +5,7 @@ To Install Nexss Programmer please go to [Nexss Programmer CLI](https://github.c
 ## Important
 
 Make sure your true type font in your terminal has the unicode characters included,
-#otherwise you may see ???? on some characters.
+otherwise you may see ???? on some characters.
 
 ```sh
 nexss myfile.ahk --test
@@ -28,3 +28,7 @@ Here is how to convert utf8/Json data: [AutoHotKey JSON/UTF-8](https://github.co
 ## Videos
 
 - <https://www.youtube.com/user/JoeGlines/videos>
+
+## Interesting Links
+
+- The Magic of AutoHotKey <https://sharats.me/posts/the-magic-of-autohotkey/>
